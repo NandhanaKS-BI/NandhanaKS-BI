@@ -13,20 +13,28 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a **Business Intelligence & Junior Data Analyst** passionate about helping businesses make sense of their data. I enjoy transforming complex datasets into clear stories and actionable insights.  
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building **interactive dashboards**, performing **data cleaning**, and delivering **KPI-driven insights** that drive business decisions. I also enjoy organizing processes and automating repetitive tasks to make work more efficient.  
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I love **drawing, painting, making miniatures, and organizing my space**. I also enjoy learning new technologies and improving my analytical skills.  
+
+
+
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://NandhanaKS-BI.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:**Sales Performance Dashboard (Excel):** Built KPI-based dashboard with pivot tables and insightful metrics.  
+- **Project B:**Relational Database & Dashboard (SQL + Power BI):** Created relational database, cleaned data, and visualized sales & budget insights.
+- - **Project C:***HR Analytics Dashboard (Power BI):** Analyzed employee attrition and performance metrics with interactive dashboards.
+- - **Project D:**Retail Sales Trend Analysis (Python + Power BI):** Seasonal trend analysis and demand pattern visualization.  
+- - **Project E:**Tableau Dashboards (COVID-19 & Netflix Analysis):** Created dashboards analyzing global trends and content insights.
+
+- - **Project F:** 
+
 
 ## 🌱 Currently Learning 
 
@@ -54,8 +62,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="Data Cleaning Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Exploratory Data Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="Dahboard Development Skill Badge">
 </p>
