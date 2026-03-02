@@ -1,0 +1,3 @@
+Tools Used: SQL, Power BI, Excel (CSV)
+
+Overview: Created relational data models for sales, budget, customers, products, and regions. Cleaned and transformed data using SQL queries, established relationships, and built a Power BI dashboard visualizing sales performance, budget vs actual sales, profit by country, monthly trends, and channel contributions with dynamic filters and KPIs.
