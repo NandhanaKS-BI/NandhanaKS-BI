@@ -13,11 +13,16 @@
 </p>
 
 ## 🚀 About Me 
-I'm a **Business Intelligence & Junior Data Analyst** passionate about helping businesses make sense of their data. I enjoy transforming complex datasets into clear stories and actionable insights.  
 
-My focus is on building **interactive dashboards**, performing **data cleaning**, and delivering **KPI-driven insights** that drive business decisions. I also enjoy organizing processes and automating repetitive tasks to make work more efficient.  
+Welcome to my portfolio! I’m a Business Intelligence & Junior Data Analyst with hands-on experience in Power BI, SQL, Excel, and Tableau. I specialize in transforming data into actionable insights by building interactive dashboards and visualizations that drive business decisions. My core skills include data cleaning, exploratory data analysis, and creating KPI-driven reports to help businesses optimize their strategies.
 
-When I'm not working with data, I love **drawing, painting, making miniatures, and organizing my space**. I also enjoy learning new technologies and improving my analytical skills.  
+What I Do
+
+Data Analysis & Visualization: Using tools like Power BI, Excel, and Tableau to turn raw data into clear insights.
+
+Dashboard Development: Designing interactive dashboards that are not only informative but also easy to use and actionable.
+
+Data Cleaning & Preprocessing: Ensuring that data is ready for analysis by cleaning, structuring, and organizing it.
 
 
 
@@ -27,23 +32,34 @@ When I'm not working with data, I love **drawing, painting, making miniatures, a
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:**Sales Performance Dashboard (Excel):** Built KPI-based dashboard with pivot tables and insightful metrics.  
-- **Project B:**Relational Database & Dashboard (SQL + Power BI):** Created relational database, cleaned data, and visualized sales & budget insights.
-- - **Project C:***HR Analytics Dashboard (Power BI):** Analyzed employee attrition and performance metrics with interactive dashboards.
-- - **Project D:**Retail Sales Trend Analysis (Python + Power BI):** Seasonal trend analysis and demand pattern visualization.  
-- - **Project E:**Tableau Dashboards (COVID-19 & Netflix Analysis):** Created dashboards analyzing global trends and content insights.
+Projects:
+1. Sales Performance Dashboard (Excel)
+A comprehensive dashboard created using Excel that visualizes key performance indicators like total sales, total profit, and sales trends. This project demonstrates my ability to clean and structure large datasets and use pivot tables to create insightful metrics.
+[View Project Details]
 
-- - **Project F:** 
+2. HR Analytics Dashboard (Power BI)
+An interactive Power BI dashboard that analyzes employee attrition and performance metrics. The dashboard helps HR teams gain insights into attrition trends, top-performing departments, and key factors influencing employee retention.
+[View Project Details]
+
+3. Retail Sales Trend Analysis (Python + Power BI)
+This project uses Python for data analysis and Power BI for visualization. It identifies seasonal trends in retail sales and provides insights into demand patterns, helping businesses forecast future sales and plan accordingly.
+[View Project Details]
+
+4. Relational Database & Dashboard (SQL + Power BI)
+Designed a relational database using SQL and created a Power BI dashboard to visualize sales and budget data. This project involved data cleaning, setting relationships, and building visualizations to monitor sales performance and budget adherence.
+[View Project Details] 
 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+Basics of Machine Learning
+
+Python for advanced data analysis
+
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
 
 #### Data Analysis & Visualization
 <p>
