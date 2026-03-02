@@ -16,7 +16,7 @@
 
 Welcome to my portfolio! I’m a Business Intelligence & Junior Data Analyst with hands-on experience in Power BI, SQL, Excel, and Tableau. I specialize in transforming data into actionable insights by building interactive dashboards and visualizations that drive business decisions. My core skills include data cleaning, exploratory data analysis, and creating KPI-driven reports to help businesses optimize their strategies.
 
-What I Do
+## What I Do
 
 Data Analysis & Visualization: Using tools like Power BI, Excel, and Tableau to turn raw data into clear insights.
 
@@ -33,28 +33,27 @@ Data Cleaning & Preprocessing: Ensuring that data is ready for analysis by clean
 ## 🔭 What I'm Currently Working On 
 
 Projects:
-1. Sales Performance Dashboard (Excel)
-A comprehensive dashboard created using Excel that visualizes key performance indicators like total sales, total profit, and sales trends. This project demonstrates my ability to clean and structure large datasets and use pivot tables to create insightful metrics.
-[View Project Details]
+**1.Sales & Relational Database Dashboard (SQL + Power BI)**
+• Designed relational data model and built interactive dashboard to track revenue, sales trends, and KPIs. 
 
-2. HR Analytics Dashboard (Power BI)
-An interactive Power BI dashboard that analyzes employee attrition and performance metrics. The dashboard helps HR teams gain insights into attrition trends, top-performing departments, and key factors influencing employee retention.
-[View Project Details]
+**2.HR Analytics – Employee Attrition (Power BI)**
+• Developed interactive dashboard to analyze attrition drivers and employee performance metrics.
 
-3. Retail Sales Trend Analysis (Python + Power BI)
-This project uses Python for data analysis and Power BI for visualization. It identifies seasonal trends in retail sales and provides insights into demand patterns, helping businesses forecast future sales and plan accordingly.
-[View Project Details]
+**3.Retail Sales Trend Analysis (Python + Power BI)**
+• Performed seasonal trend analysis and visualized demand patterns using dashboards.
 
-4. Relational Database & Dashboard (SQL + Power BI)
-Designed a relational database using SQL and created a Power BI dashboard to visualize sales and budget data. This project involved data cleaning, setting relationships, and building visualizations to monitor sales performance and budget adherence.
-[View Project Details] 
+**4.Tableau Dashboards (COVID-19 & Netflix Analysis)**
+• Created interactive dashboards analyzing global trends and content distribution insights.
+
+**5.Sales Performance Dashboard (Excel)**
+• Built KPI-based dashboard using Pivot Tables and advanced formulas.
 
 
 ## 🌱 Currently Learning 
 
-Basics of Machine Learning
+.Basics of Machine Learning
 
-Python for advanced data analysis
+.Python for advanced data analysis
 
 
 ## 🛠️ Technical Skillset
