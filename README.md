@@ -33,6 +33,7 @@ Data Cleaning & Preprocessing: Ensuring that data is ready for analysis by clean
 ## 🔭 What I'm Currently Working On 
 
 Projects:
+
 **1.Sales & Relational Database Dashboard (SQL + Power BI)**
 • Designed relational data model and built interactive dashboard to track revenue, sales trends, and KPIs. 
 
