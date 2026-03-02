@@ -52,9 +52,9 @@ Projects:
 
 ## 🌱 Currently Learning 
 
-.Basics of Machine Learning
+ Basics of Machine Learning
 
-.Python for advanced data analysis
+ Python for advanced data analysis
 
 
 ## 🛠️ Technical Skillset
