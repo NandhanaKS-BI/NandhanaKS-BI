@@ -1,3 +1,8 @@
-Tools Used: Excel (Pivot Tables, Formulas, Charts)
+1. Sales Performance Analysis Dashboard (Excel)
+Overview
 
-Overview Built an interactive sales dashboard to analyze sales trends, top products, top customers, channel-wise performance, and key KPIs like total sales, total profit, total quantity, and average sales. Added slices for period, channel, and warehouse for dynamic analysis.
+In this project, I created a Sales Performance Dashboard using Excel. The dashboard tracks key business metrics such as total sales, total profit, and sales trends using Pivot Tables and KPI-based visualizations. It helps to monitor sales performance and identify key areas for improvement.
+
+Tools Used
+
+Microsoft Excel (Pivot Tables, Advanced Formulas, Data Analysis,visualizations)
