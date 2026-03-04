@@ -14,7 +14,7 @@
 
 ## 🚀 About Me 
 
-Welcome to my portfolio! I’m a Business Intelligence & Junior Data Analyst with hands-on experience in Power BI, SQL, Excel, and Tableau. I specialize in transforming data into actionable insights by building interactive dashboards and visualizations that drive business decisions. My core skills include data cleaning, exploratory data analysis, and creating KPI-driven reports to help businesses optimize their strategies.
+Welcome to my portfolio!I am an aspiring Business Intelligence and Data Analyst with hands-on experience in Power BI, SQL, Excel, and Tableau. I enjoy transforming complex datasets into actionable insights through interactive visualizations and data-driven storytelling. With skills in data modeling and KPI-driven reporting, I focus on uncovering meaningful patterns that support informed decision-making. This portfolio showcases my projects across various domains.
 
 ## What I Do
 
@@ -73,7 +73,6 @@ Projects:
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
