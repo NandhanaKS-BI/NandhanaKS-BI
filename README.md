@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="www.linkedin.com/in/nandhana-k-s-b57b92389"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="|  linkedin.com/in/nandhana-k-s-b57b92389"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
  <a href="nandanks.jan13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -182,6 +182,6 @@ A Power BI dashboard analyzing **artist performance, song popularity, chart patt
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Nandhana K.S](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Nandhana K.S](linkedin.com/in/nandhana-k-s-b57b92389)
 - 🌐 Portfolio: [nandhanaks-bi.github.io](https://nandhanaks-bi.github.io/)
 - 💻 GitHub: [NandhanaKS-BI](https://github.com/NandhanaKS-BI)
