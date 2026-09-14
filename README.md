@@ -12,167 +12,176 @@
  <a href="nandanks.jan13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-##👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a Data Analyst focused on transforming raw data into clear, actionable insights that support better business decisions.
+I'm a **Data Analyst** focused on turning raw data into clear, actionable insights that support better business decisions.
 
-I work primarily with SQL, Power BI, Excel, and data visualization, with hands-on experience in data cleaning, data modeling, KPI analysis, and dashboard development.
+My core skills include **SQL, Power BI, Excel, and data visualization**, with hands-on experience in data cleaning, data modeling, KPI analysis, and dashboard development.
 
-Through my internships and projects, I have also gained hands-on exposure to Python, Snowflake, dbt, Apache Kafka, Databricks, PySpark, Apache Superset, and Scrapy, giving me experience across both analytics and modern data workflows.
+Through my internships and projects, I have also gained hands-on exposure to **Python, Snowflake, dbt, Apache Kafka, Databricks, PySpark, Scrapy, and Apache Superset**, giving me experience across both analytics and modern data workflows.
 
 I enjoy exploring business problems, identifying meaningful patterns, and presenting insights through clear and interactive dashboards.
 
-📌 What I Do
-Analyze and clean data to identify meaningful business insights
-Build interactive dashboards and reports using Power BI, Tableau, and Excel
-Write SQL queries for data extraction, transformation, and analysis
-Create data models, KPIs, and business-focused metrics
-Work with modern data tools and data engineering workflows
-Translate data findings into clear and actionable insights
+---
 
-🌐 Portfolio
+## 📌 What I Do
 
-🔗 Visit My Portfolio### [👉 Check Out My Full Portfolio Website](https://NandhanaKS-BI.github.io/)
+- 📊 Data Analysis and Visualization
+- 📈 Power BI Dashboard Development
+- 🗄️ SQL Querying and Data Analysis
+- 📑 Excel-based Analysis and Reporting
+- 🧹 Data Cleaning and Transformation
+- 🔢 KPI and Business Performance Analysis
+- 🧩 Data Modeling and Star Schema Design
+- 🔄 ETL and Modern Data Workflows
 
-🚀 Current Projects
-🔹 EchoChain – Circular Economy & Secondary Market Lifecycle Analytics
+---
 
-An end-to-end analytics project focused on understanding product lifecycle, component reliability, warranty failures, and secondary-market opportunities.
+## 🌐 Portfolio
 
-Tools: Databricks • PySpark • Scrapy • Power BI • Delta Lake
+🔗 **[Visit My Portfolio](https://nandhanaks-bi.github.io/)**
 
-Cleaned and transformed product, BOM, warranty, and marketplace data
-Performed fuzzy SKU matching using PySpark
-Built Silver and Gold data layers
-Developed lifecycle and component reliability metrics
-Created an interactive Power BI dashboard for circular economy and secondary-market analysis
+---
 
-🔗 View Project on GitHub
+## 🚀 Projects
 
-🔹 AtmoSync – Micro-Climate Arbitrage Analytics
+### 🔹 EchoChain – Circular Economy & Secondary Market Lifecycle Analytics
 
-A data engineering and analytics project designed to monitor agricultural container conditions and identify potential spoilage risks using simulated IoT sensor data.
+An end-to-end analytics project focused on understanding **product lifecycle, component reliability, warranty performance, and secondary-market opportunities**.
 
-Tools: Python • Apache Kafka • Snowflake • dbt • Apache Superset
+**Tools:** Scrapy · Databricks · Delta · PySpark · Power BI
 
-Generated simulated temperature, humidity, and vibration sensor data
-Streamed data through Apache Kafka into Snowflake
-Built dbt staging and fact models
-Developed spoilage risk and shipment-priority logic
-Created analytical dashboards using Apache Superset
-Implemented automated critical shipment email alerts
+**Key Areas:**
+- Marketplace data collection and cleaning
+- Product, BOM, warranty, and marketplace analysis
+- SKU matching using PySpark
+- Component failure and lifecycle analysis
+- Secondary-market and recovery insights
+- Power BI dashboard development
 
-🔗 View Project on GitHub
+---
 
-🔹 Twitter Analytics Dashboard
+### 🔹 AtmoSync – Micro-Climate Arbitrage Analytics
 
-An interactive Power BI dashboard for analyzing tweet performance, impressions, engagement, and retweets.
+A modern data analytics and engineering project using simulated agricultural container sensor data to identify **spoilage risks and shipment priorities**.
 
-Tools: Power BI • Power Query • DAX
+**Tools:** Python · Apache Kafka · Snowflake · dbt · Apache Superset
 
-Analyzed tweet-level performance metrics
-Created KPI cards and interactive visuals
-Identified high-performing tweet categories
-Built filters for deeper performance analysis
-🔹 Sales & Relational Database Dashboard
+**Key Areas:**
+- Sensor data ingestion
+- Temperature, humidity, and vibration analysis
+- Data cleaning and transformation using dbt
+- Spoilage risk identification
+- Shipment priority analysis
+- Dashboard development and automated alerts
 
-A Power BI analytics project built on a relational sales database to analyze revenue, profitability, customer, product, and regional performance.
+---
 
-Tools: SQL Server • Power BI • DAX
+### 🔹 Twitter Analytics Dashboard
 
-Designed a relational data model
-Analyzed sales and profit performance
-Created business KPIs and trend analysis
-Built an interactive Power BI dashboard
-🔹 HR Analytics – Employee Attrition
+A Power BI dashboard designed to analyze **tweet performance, impressions, engagement, retweets, and tweet categories**.
 
-A Power BI dashboard focused on understanding employee attrition patterns and workforce trends.
+**Tools:** Power BI · DAX · Power Query
 
-Tools: Power BI • Power Query • DAX
+---
 
-Analyzed employee attrition patterns
-Identified key factors associated with employee turnover
-Created KPI cards and interactive visualizations
-Presented workforce insights through an executive-style dashboard
-🔹 Netflix Analysis Dashboard
+### 🔹 Sales & Relational Database Dashboard
 
-A Tableau dashboard analyzing Netflix content distribution, genres, content types, and release trends.
+A business intelligence dashboard built using a relational sales database to analyze **revenue, profit, sales trends, product performance, and regional performance**.
 
-Tools: Tableau • Data Visualization
+**Tools:** SQL Server · Power BI · DAX · Data Modeling
 
-Analyzed movies and TV shows
-Explored genre and content-type distribution
-Examined release-year trends
-Built interactive Tableau visualizations
-🔹 Retail Sales Trend Analysis
+---
 
-A data analysis project focused on identifying sales trends, seasonal patterns, and demand behavior.
+### 🔹 HR Analytics – Employee Attrition
 
-Tools: Python • Power BI
+An HR analytics dashboard focused on understanding **employee attrition patterns and workforce trends**.
 
-Cleaned and analyzed retail sales data
-Identified sales trends and seasonal patterns
-Created visualizations to support business analysis
-🔹 Sales Performance Dashboard
+**Tools:** Power BI · Power Query · DAX
 
-An Excel-based dashboard for analyzing sales performance and business KPIs.
+---
 
-Tools: Excel • Pivot Tables • Advanced Formulas
+### 🔹 Netflix Analysis Dashboard
 
-Created KPI-based sales analysis
-Used Pivot Tables for performance analysis
-Built interactive Excel visualizations
-Identified sales trends and performance patterns
-🔹 Spotify Top 50 Songs Analytics Dashboard
+A Tableau dashboard exploring **Netflix content distribution, genres, content types, and release-year trends**.
 
-A Power BI dashboard analyzing artist performance, song popularity, and chart patterns from Spotify Top 50 data.
+**Tools:** Tableau · Data Visualization
 
-Tools: Power BI • Power Query • DAX
+---
 
-Analyzed artist and song performance
-Compared popularity across artists
-Identified chart and performance patterns
-Created an interactive dashboard for music analytics
+### 🔹 Retail Sales Trend Analysis
+
+An analysis of retail sales data to identify **sales trends, seasonal patterns, and demand behavior**.
+
+**Tools:** Python · Power BI
+
+---
+
+### 🔹 Sales Performance Dashboard
+
+An Excel-based dashboard for monitoring **sales performance, KPIs, and business trends**.
+
+**Tools:** Excel · Pivot Tables · Advanced Formulas
+
+---
+
+### 🔹 Spotify Top 50 Songs Analytics Dashboard
+
+A Power BI dashboard analyzing **artist performance, song popularity, chart patterns, and music trends**.
+
+**Tools:** Power BI · DAX · Data Visualization
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL and analytical problem solving
+- Power BI and DAX
+- Excel for Data Analysis
+- Python for Data Analysis
+- Data Analyst interview preparation
+
+---
 
 ## 🛠️ Technical Skillset
 
 ### 📊 Data Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Data%20Storytelling-6C63FF?style=flat" alt="Data Storytelling">
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-6C63FF?style=flat)
 
 ### 📈 Data Analysis
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=flat" alt="Data Cleaning">
-  <img src="https://img.shields.io/badge/KPI%20Analysis-4ECDC4?style=flat" alt="KPI Analysis">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C63FF?style=flat)
+![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-6C63FF?style=flat)
 
 ### 🧩 Data Modeling & BI
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat" alt="Power Query">
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat" alt="DAX">
-  <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=flat" alt="Data Modeling">
-  <img src="https://img.shields.io/badge/Star%20Schema-4ECDC4?style=flat" alt="Star Schema">
-  <img src="https://img.shields.io/badge/ETL%20Processes-FF6B6B?style=flat" alt="ETL Processes">
-</p>
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-6C63FF?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6C63FF?style=flat)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-6C63FF?style=flat)
+![ETL](https://img.shields.io/badge/ETL%20Processes-6C63FF?style=flat)
 
 ### ⚙️ Data Engineering & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
-  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white" alt="Apache Superset">
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white" alt="Scrapy">
-</p>
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat&logo=apache&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
 
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Nandhana K.S](YOUR_LINKEDIN_URL)
+- 🌐 Portfolio: [nandhanaks-bi.github.io](https://nandhanaks-bi.github.io/)
+- 💻 GitHub: [NandhanaKS-BI](https://github.com/NandhanaKS-BI)
