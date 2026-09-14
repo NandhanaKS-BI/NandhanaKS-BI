@@ -94,11 +94,6 @@ Analyzed artist performance, song popularity, and chart patterns using an intera
 
 ## 🛠️ Technical Skillset
 
-
-
-## 🛠️ Technical Skillset
-## 🛠️ Technical Skillset
-
 ### 📊 Data Visualization
 
 <p>
