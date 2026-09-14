@@ -61,24 +61,44 @@ Projects:
 
 
 
-#### Data Analysis & Visualization
+## 🛠️ Technical Skillset
+
+### 📊 Data Visualization
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Adwanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Intermediate-6C63FF?style=flat" alt="Data Storytelling">
 </p>
 
-#### Programming & Automation
+### 📈 Data Analysis
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Foundational-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Intermediate-FF6B6B?style=flat" alt="Data Cleaning">
+  <img src="https://img.shields.io/badge/KPI%20Analysis-Intermediate-4ECDC4?style=flat" alt="KPI Analysis">
+  <img src="https://img.shields.io/badge/Python-Basics-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
-#### Business Intelligence & Analytics
+### 🧩 Data Modeling & BI
+
 <p>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Intermediate-FF6B6B?style=flat" alt="Data Cleaning Skill Badge">
-  <img src="https://img.shields.io/badge/Exploratory%20DataAnalysis-Intermediate-4ECDC4?style=flat" alt="Exploratory Data Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical %20Analysis-Foundational-45B7D1?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Dashboard%20Development-Intermediate-96CEB4?style=flat" alt="Dahboard Development Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20Query-M-217346?style=flat" alt="Power Query">
+  <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat" alt="DAX">
+  <img src="https://img.shields.io/badge/Data%20Modeling-Intermediate-6C63FF?style=flat" alt="Data Modeling">
+  <img src="https://img.shields.io/badge/Star%20Schema-Intermediate-4ECDC4?style=flat" alt="Star Schema">
+  <img src="https://img.shields.io/badge/ETL%20Processes-Intermediate-FF6B6B?style=flat" alt="ETL">
+</p>
+
+### ⚙️ Data Engineering & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-Intermediate-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/dbt-Intermediate-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-Intermediate-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Databricks-Intermediate-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/PySpark-Intermediate-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Apache%20Superset-Intermediate-20A6C9?style=flat&logo=apachesuperset&logoColor=white" alt="Apache Superset">
+  <img src="https://img.shields.io/badge/Scrapy-Intermediate-60A839?style=flat&logo=scrapy&logoColor=white" alt="Scrapy">
 </p>
