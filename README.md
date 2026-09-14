@@ -12,7 +12,7 @@
  <a href="nandanks.jan13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-👩‍💻 About Me
+##👩‍💻 About Me
 
 I'm a Data Analyst focused on transforming raw data into clear, actionable insights that support better business decisions.
 
