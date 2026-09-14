@@ -14,16 +14,19 @@
 
 ## 🚀 About Me 
 
-Welcome to my portfolio!I am an aspiring Business Intelligence and Data Analyst with hands-on experience in Power BI, SQL, Excel, and Tableau. I enjoy transforming complex datasets into actionable insights through interactive visualizations and data-driven storytelling. With skills in data modeling and KPI-driven reporting, I focus on uncovering meaningful patterns that support informed decision-making. This portfolio showcases my projects across various domains.
+Welcome to my portfolio!I’m a Data Analyst focused on turning raw data into clear, actionable insights that support better business decisions.
+
+My core skills include SQL, Power BI, Excel, and data visualization, with hands-on experience in data cleaning, data modeling, KPI analysis, and dashboard development.
+
+Through my internships and projects, I have also gained hands-on exposure to Python, Snowflake, dbt, Apache Kafka, Databricks, PySpark, Scrapy, and Apache Superset, giving me experience across analytics and modern data workflows.
 
 ## What I Do
 
-Data Analysis & Visualization: Using tools like Power BI, Excel, and Tableau to turn raw data into clear insights.
-
-Dashboard Development: Designing interactive dashboards that are not only informative but also easy to use and actionable.
-
-Data Cleaning & Preprocessing: Ensuring that data is ready for analysis by cleaning, structuring, and organizing it.
-
+Data Analysis & Visualization: Analyze data using SQL, Power BI, Excel, and Tableau.
+Dashboard Development: Build interactive, KPI-focused dashboards for business reporting.
+Data Cleaning & Transformation: Prepare and structure data for reliable analysis.
+Data Modeling: Create analytical data models using Power Query, DAX, and star schema concepts.
+Business Insights: Identify trends, patterns, and key metrics that support decision-making.
 
 
 
@@ -34,33 +37,66 @@ Data Cleaning & Preprocessing: Ensuring that data is ready for analysis by clean
 
 Projects:
 
-**1.Sales & Relational Database Dashboard (SQL + Power BI)**
-• Designed relational data model and built interactive dashboard to track revenue, sales trends, and KPIs. 
+1. EchoChain – Circular Economy & Secondary Market Lifecycle Analytics
 
-**2.HR Analytics – Employee Attrition (Power BI)**
-• Developed interactive dashboard to analyze attrition drivers and employee performance metrics.
+Databricks | PySpark | Power BI
 
-**3.Retail Sales Trend Analysis (Python + Power BI)**
-• Performed seasonal trend analysis and visualized demand patterns using dashboards.
+Analyzed product, component, warranty, and secondary-market data to evaluate component lifecycle, failure patterns, recovery opportunities, and resale behavior.
 
-**4.Tableau Dashboards (COVID-19 & Netflix Analysis)**
-• Created interactive dashboards analyzing global trends and content distribution insights.
+2. AtmoSync – Micro-Climate Arbitrage Analytics
 
-**5.Sales Performance Dashboard (Excel)**
-• Built KPI-based dashboard using Pivot Tables and advanced formulas.
+Python | Apache Kafka | Snowflake | dbt | Apache Superset
 
+Built an end-to-end analytics workflow for agricultural container sensor data to monitor temperature, humidity, and vibration conditions and identify spoilage risks.
 
-## 🌱 Currently Learning 
+3. Twitter Analytics Dashboard
 
- Basics of Machine Learning
+Power BI
 
- Python for advanced data analysis
+Developed an interactive dashboard to analyze impressions, engagement, retweets, and overall tweet performance.
+
+4. Sales & Relational Database Dashboard
+
+SQL Server | Power BI
+
+Designed a relational data model and developed a dashboard to analyze sales, revenue, profit, product performance, and regional trends.
+
+5. HR Analytics – Employee Attrition
+
+Power BI
+
+Analyzed employee attrition patterns, workforce trends, and key factors associated with employee turnover.
+
+6. Retail Sales Trend Analysis
+
+Python | Power BI
+
+Performed sales trend and seasonal analysis to identify demand patterns and support business insights.
+
+7. Netflix Analysis Dashboard
+
+Tableau
+
+Created an interactive Tableau dashboard to analyze content distribution across genres, types, and release years.
+
+8. Sales Performance Dashboard
+
+Excel
+
+Built a KPI-focused sales dashboard using Pivot Tables, formulas, and interactive analysis.
+
+9. Spotify Top 50 Songs Analytics Dashboard
+
+Power BI
+
+Analyzed artist performance, song popularity, and chart patterns using an interactive Power BI dashboard.
 
 
 ## 🛠️ Technical Skillset
 
 
 
+## 🛠️ Technical Skillset
 ## 🛠️ Technical Skillset
 
 ### 📊 Data Visualization
@@ -102,3 +138,4 @@ Projects:
   <img src="https://img.shields.io/badge/Apache%20Superset-Intermediate-20A6C9?style=flat&logo=apachesuperset&logoColor=white" alt="Apache Superset">
   <img src="https://img.shields.io/badge/Scrapy-Intermediate-60A839?style=flat&logo=scrapy&logoColor=white" alt="Scrapy">
 </p>
+
