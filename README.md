@@ -12,87 +12,128 @@
  <a href="nandanks.jan13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+👩‍💻 About Me
 
-Welcome to my portfolio!I’m a Data Analyst focused on turning raw data into clear, actionable insights that support better business decisions.
+I'm a Data Analyst focused on transforming raw data into clear, actionable insights that support better business decisions.
 
-My core skills include SQL, Power BI, Excel, and data visualization, with hands-on experience in data cleaning, data modeling, KPI analysis, and dashboard development.
+I work primarily with SQL, Power BI, Excel, and data visualization, with hands-on experience in data cleaning, data modeling, KPI analysis, and dashboard development.
 
-Through my internships and projects, I have also gained hands-on exposure to Python, Snowflake, dbt, Apache Kafka, Databricks, PySpark, Scrapy, and Apache Superset, giving me experience across analytics and modern data workflows.
+Through my internships and projects, I have also gained hands-on exposure to Python, Snowflake, dbt, Apache Kafka, Databricks, PySpark, Apache Superset, and Scrapy, giving me experience across both analytics and modern data workflows.
 
-## What I Do
+I enjoy exploring business problems, identifying meaningful patterns, and presenting insights through clear and interactive dashboards.
 
-Data Analysis & Visualization: Analyze data using SQL, Power BI, Excel, and Tableau.
-Dashboard Development: Build interactive, KPI-focused dashboards for business reporting.
-Data Cleaning & Transformation: Prepare and structure data for reliable analysis.
-Data Modeling: Create analytical data models using Power Query, DAX, and star schema concepts.
-Business Insights: Identify trends, patterns, and key metrics that support decision-making.
+📌 What I Do
+Analyze and clean data to identify meaningful business insights
+Build interactive dashboards and reports using Power BI, Tableau, and Excel
+Write SQL queries for data extraction, transformation, and analysis
+Create data models, KPIs, and business-focused metrics
+Work with modern data tools and data engineering workflows
+Translate data findings into clear and actionable insights
 
+🌐 Portfolio
 
+🔗 Visit My Portfolio### [👉 Check Out My Full Portfolio Website](https://NandhanaKS-BI.github.io/)
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [👉 Check Out My Full Portfolio Website](https://NandhanaKS-BI.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+🚀 Current Projects
+🔹 EchoChain – Circular Economy & Secondary Market Lifecycle Analytics
 
-Projects:
+An end-to-end analytics project focused on understanding product lifecycle, component reliability, warranty failures, and secondary-market opportunities.
 
-1. EchoChain – Circular Economy & Secondary Market Lifecycle Analytics
+Tools: Databricks • PySpark • Scrapy • Power BI • Delta Lake
 
-Databricks | PySpark | Power BI
+Cleaned and transformed product, BOM, warranty, and marketplace data
+Performed fuzzy SKU matching using PySpark
+Built Silver and Gold data layers
+Developed lifecycle and component reliability metrics
+Created an interactive Power BI dashboard for circular economy and secondary-market analysis
 
-Analyzed product, component, warranty, and secondary-market data to evaluate component lifecycle, failure patterns, recovery opportunities, and resale behavior.
+🔗 View Project on GitHub
 
-2. AtmoSync – Micro-Climate Arbitrage Analytics
+🔹 AtmoSync – Micro-Climate Arbitrage Analytics
 
-Python | Apache Kafka | Snowflake | dbt | Apache Superset
+A data engineering and analytics project designed to monitor agricultural container conditions and identify potential spoilage risks using simulated IoT sensor data.
 
-Built an end-to-end analytics workflow for agricultural container sensor data to monitor temperature, humidity, and vibration conditions and identify spoilage risks.
+Tools: Python • Apache Kafka • Snowflake • dbt • Apache Superset
 
-3. Twitter Analytics Dashboard
+Generated simulated temperature, humidity, and vibration sensor data
+Streamed data through Apache Kafka into Snowflake
+Built dbt staging and fact models
+Developed spoilage risk and shipment-priority logic
+Created analytical dashboards using Apache Superset
+Implemented automated critical shipment email alerts
 
-Power BI
+🔗 View Project on GitHub
 
-Developed an interactive dashboard to analyze impressions, engagement, retweets, and overall tweet performance.
+🔹 Twitter Analytics Dashboard
 
-4. Sales & Relational Database Dashboard
+An interactive Power BI dashboard for analyzing tweet performance, impressions, engagement, and retweets.
 
-SQL Server | Power BI
+Tools: Power BI • Power Query • DAX
 
-Designed a relational data model and developed a dashboard to analyze sales, revenue, profit, product performance, and regional trends.
+Analyzed tweet-level performance metrics
+Created KPI cards and interactive visuals
+Identified high-performing tweet categories
+Built filters for deeper performance analysis
+🔹 Sales & Relational Database Dashboard
 
-5. HR Analytics – Employee Attrition
+A Power BI analytics project built on a relational sales database to analyze revenue, profitability, customer, product, and regional performance.
 
-Power BI
+Tools: SQL Server • Power BI • DAX
 
-Analyzed employee attrition patterns, workforce trends, and key factors associated with employee turnover.
+Designed a relational data model
+Analyzed sales and profit performance
+Created business KPIs and trend analysis
+Built an interactive Power BI dashboard
+🔹 HR Analytics – Employee Attrition
 
-6. Retail Sales Trend Analysis
+A Power BI dashboard focused on understanding employee attrition patterns and workforce trends.
 
-Python | Power BI
+Tools: Power BI • Power Query • DAX
 
-Performed sales trend and seasonal analysis to identify demand patterns and support business insights.
+Analyzed employee attrition patterns
+Identified key factors associated with employee turnover
+Created KPI cards and interactive visualizations
+Presented workforce insights through an executive-style dashboard
+🔹 Netflix Analysis Dashboard
 
-7. Netflix Analysis Dashboard
+A Tableau dashboard analyzing Netflix content distribution, genres, content types, and release trends.
 
-Tableau
+Tools: Tableau • Data Visualization
 
-Created an interactive Tableau dashboard to analyze content distribution across genres, types, and release years.
+Analyzed movies and TV shows
+Explored genre and content-type distribution
+Examined release-year trends
+Built interactive Tableau visualizations
+🔹 Retail Sales Trend Analysis
 
-8. Sales Performance Dashboard
+A data analysis project focused on identifying sales trends, seasonal patterns, and demand behavior.
 
-Excel
+Tools: Python • Power BI
 
-Built a KPI-focused sales dashboard using Pivot Tables, formulas, and interactive analysis.
+Cleaned and analyzed retail sales data
+Identified sales trends and seasonal patterns
+Created visualizations to support business analysis
+🔹 Sales Performance Dashboard
 
-9. Spotify Top 50 Songs Analytics Dashboard
+An Excel-based dashboard for analyzing sales performance and business KPIs.
 
-Power BI
+Tools: Excel • Pivot Tables • Advanced Formulas
 
-Analyzed artist performance, song popularity, and chart patterns using an interactive Power BI dashboard.
+Created KPI-based sales analysis
+Used Pivot Tables for performance analysis
+Built interactive Excel visualizations
+Identified sales trends and performance patterns
+🔹 Spotify Top 50 Songs Analytics Dashboard
 
+A Power BI dashboard analyzing artist performance, song popularity, and chart patterns from Spotify Top 50 data.
 
-## 🛠️ Technical Skillset
+Tools: Power BI • Power Query • DAX
+
+Analyzed artist and song performance
+Compared popularity across artists
+Identified chart and performance patterns
+Created an interactive dashboard for music analytics
+
 ## 🛠️ Technical Skillset
 
 ### 📊 Data Visualization
