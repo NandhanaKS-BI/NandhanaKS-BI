@@ -93,44 +93,45 @@ Analyzed artist performance, song popularity, and chart patterns using an intera
 
 
 ## 🛠️ Technical Skillset
+## 🛠️ Technical Skillset
 
 ### 📊 Data Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Intermediate-6C63FF?style=flat" alt="Data Storytelling">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-6C63FF?style=flat" alt="Data Storytelling">
 </p>
 
 ### 📈 Data Analysis
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Intermediate-FF6B6B?style=flat" alt="Data Cleaning">
-  <img src="https://img.shields.io/badge/KPI%20Analysis-Intermediate-4ECDC4?style=flat" alt="KPI Analysis">
-  <img src="https://img.shields.io/badge/Python-Basics-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=flat" alt="Data Cleaning">
+  <img src="https://img.shields.io/badge/KPI%20Analysis-4ECDC4?style=flat" alt="KPI Analysis">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
 ### 🧩 Data Modeling & BI
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20Query-M-217346?style=flat" alt="Power Query">
-  <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat" alt="DAX">
-  <img src="https://img.shields.io/badge/Data%20Modeling-Intermediate-6C63FF?style=flat" alt="Data Modeling">
-  <img src="https://img.shields.io/badge/Star%20Schema-Intermediate-4ECDC4?style=flat" alt="Star Schema">
-  <img src="https://img.shields.io/badge/ETL%20Processes-Intermediate-FF6B6B?style=flat" alt="ETL">
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat" alt="Power Query">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat" alt="DAX">
+  <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=flat" alt="Data Modeling">
+  <img src="https://img.shields.io/badge/Star%20Schema-4ECDC4?style=flat" alt="Star Schema">
+  <img src="https://img.shields.io/badge/ETL%20Processes-FF6B6B?style=flat" alt="ETL Processes">
 </p>
 
 ### ⚙️ Data Engineering & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Snowflake-Intermediate-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/dbt-Intermediate-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-Intermediate-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/Databricks-Intermediate-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/PySpark-Intermediate-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
-  <img src="https://img.shields.io/badge/Apache%20Superset-Intermediate-20A6C9?style=flat&logo=apachesuperset&logoColor=white" alt="Apache Superset">
-  <img src="https://img.shields.io/badge/Scrapy-Intermediate-60A839?style=flat&logo=scrapy&logoColor=white" alt="Scrapy">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white" alt="Apache Superset">
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white" alt="Scrapy">
 </p>
 
